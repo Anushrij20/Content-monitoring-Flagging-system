@@ -1,0 +1,23 @@
+[
+  {
+    "external_id": "1",
+    "title": "Learn Django Fast Updated",
+    "body": "Django is a powerful Python framework for automation.",
+    "source": "Blog A",
+    "last_updated": "2026-03-28T10:00:00Z"
+  },
+  {
+    "external_id": "2",
+    "title": "Cooking Tips",
+    "body": "Best recipes for beginners",
+    "source": "Blog B",
+    "last_updated": "2026-03-20T10:00:00Z"
+  },
+  {
+    "external_id": "3",
+    "title": "Data Pipeline Basics",
+    "body": "Automation ideas for modern data teams",
+    "source": "Blog C",
+    "last_updated": "2026-03-21T10:00:00Z"
+  }
+]
